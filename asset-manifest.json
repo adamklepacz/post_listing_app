@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/adamklepacz/post_listing_app_demo/static/css/main.47adce23.chunk.css",
+    "main.js": "/adamklepacz/post_listing_app_demo/static/js/main.900f218d.chunk.js",
+    "main.js.map": "/adamklepacz/post_listing_app_demo/static/js/main.900f218d.chunk.js.map",
+    "runtime-main.js": "/adamklepacz/post_listing_app_demo/static/js/runtime-main.444a289e.js",
+    "runtime-main.js.map": "/adamklepacz/post_listing_app_demo/static/js/runtime-main.444a289e.js.map",
+    "static/css/2.3a2f2fbd.chunk.css": "/adamklepacz/post_listing_app_demo/static/css/2.3a2f2fbd.chunk.css",
+    "static/js/2.961f7a3e.chunk.js": "/adamklepacz/post_listing_app_demo/static/js/2.961f7a3e.chunk.js",
+    "static/js/2.961f7a3e.chunk.js.map": "/adamklepacz/post_listing_app_demo/static/js/2.961f7a3e.chunk.js.map",
+    "index.html": "/adamklepacz/post_listing_app_demo/index.html",
+    "precache-manifest.e7209239ca6a57284629af3baad8ece0.js": "/adamklepacz/post_listing_app_demo/precache-manifest.e7209239ca6a57284629af3baad8ece0.js",
+    "service-worker.js": "/adamklepacz/post_listing_app_demo/service-worker.js",
+    "static/css/2.3a2f2fbd.chunk.css.map": "/adamklepacz/post_listing_app_demo/static/css/2.3a2f2fbd.chunk.css.map",
+    "static/css/main.47adce23.chunk.css.map": "/adamklepacz/post_listing_app_demo/static/css/main.47adce23.chunk.css.map",
+    "static/media/index.css": "/adamklepacz/post_listing_app_demo/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.444a289e.js",
+    "static/css/2.3a2f2fbd.chunk.css",
+    "static/js/2.961f7a3e.chunk.js",
+    "static/css/main.47adce23.chunk.css",
+    "static/js/main.900f218d.chunk.js"
+  ]
+}
