@@ -3,7 +3,7 @@ Project was bootstrapped with [Create React App](https://github.com/facebook/cre
 1. Clone this repo by
 
 ```
-git clone <this-repository-url>
+git clone https://github.com/adamklepacz/post_listing_app
 ```
 
 2. Within root directory of this cloned project install dependencies
