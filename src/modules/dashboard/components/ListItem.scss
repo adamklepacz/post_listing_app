@@ -1,0 +1,53 @@
+.list-item {
+  margin: 0 0 20px 0;
+
+  &__container {
+    align-items: center;
+    display: flex !important;
+    padding: 20px;
+  }
+
+  &__img-wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    width: 100px;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  &__content {
+    text-align: left;
+  }
+
+  &__controllers {
+    margin-left: auto;
+  }
+
+  &__button:first-child {
+    margin-right: 10px;
+  }
+
+  &__excerpt {
+    -moz-animation: fadein 2s; /* Firefox < 16 */
+    -ms-animation: fadein 2s; /* Internet Explorer */
+    -o-animation: fadein 2s; /* Opera < 12.1 */
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+    animation: fadein 2s;
+
+    margin-bottom: 20px;
+    padding: 0 20px;
+  }
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

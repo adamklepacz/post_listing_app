@@ -1,0 +1,7 @@
+*.css
+*.scss
+*.min.js
+dist/*
+serviceWorker.js
+index.js
+*.test.js

@@ -1,0 +1,11 @@
+.dashboard-header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+
+  &__dropdowns {
+    .dropdown {
+      margin-right: 10px;
+    }
+  }
+}

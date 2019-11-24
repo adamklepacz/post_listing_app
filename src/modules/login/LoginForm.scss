@@ -1,0 +1,12 @@
+.login-form-wrapper {
+  padding: 40px 20px;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+
+  &__input {
+    margin-bottom: 8px !important;
+  }
+}

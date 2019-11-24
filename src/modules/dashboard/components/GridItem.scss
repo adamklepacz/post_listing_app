@@ -1,0 +1,33 @@
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  flex: 0 1 calc(20% - 80px);
+  height: 180px;
+  margin: 20px;
+
+  a {
+    padding: 20px;
+  }
+
+  &__heading {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 160px;
+  }
+
+  &__image-wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    justify-self: flex-start;
+    margin-top: 10px;
+    max-width: 160px;
+    position: relative;
+    width: 100%;
+  }
+
+  &__image {
+    width: 100%;
+  }
+}
